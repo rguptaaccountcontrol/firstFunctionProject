@@ -11,7 +11,7 @@ exports.handler = async function(context, event, callback) {
   let bb = {
     "actions": [
       {
-        "say": "Hello, from functions. The function is in a seperate file and in functions folder"
+        "say": "Hello, from functions. The function is in a seperate file and in functions folder comit to github"
       },
       {
         "listen": true
