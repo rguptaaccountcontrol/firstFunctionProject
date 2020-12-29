@@ -1,5 +1,5 @@
 const privateMessage = () => {
-  return 'This is private! The function is in a seperate file and in assets folder';
+  return 'This is private! The function is in a seperate file and in assets folder test';
 };
 
 const secondMessage = (m) => {
